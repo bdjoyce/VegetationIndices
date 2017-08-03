@@ -16,6 +16,7 @@
 
 # This is an example script of how the utilities were used to calculate
 # reflectance indices
+#
 
 setwd('C:/Users/brian/Dropbox/Manuscripts/Github/')
 source('DirtyMySQL.r')
