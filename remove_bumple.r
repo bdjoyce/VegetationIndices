@@ -20,7 +20,6 @@ library("signal")
 
 
 
-
 # remove_bumple
 # ================================
 # Function designed to remove peak in reflectance spectra due to instrument error characterized by
