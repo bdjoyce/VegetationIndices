@@ -15,7 +15,6 @@
 #
 
 
-
 # reflectance_equation
 # ================================
 # Function to generalize execution of reflectance equations to make large batch analysis easier
